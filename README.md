@@ -12,10 +12,10 @@ Dataset
 - Columns include: Date, Product Category, Total Amount, Region, etc.
 
 Dashboard Visuals
-- Line Chart: Total Sales over Month-Year
+- Line Chart: Monthly sales trend
 - Bar Chart: Total Sales by Region
 - Donut Chart: Total Sales by Product Category
-- Slicer: Filter by Product Category
+- Slicer: Filter by 5Region
 
 Key Insights
 1. The West region had the highest total sales, peaking in Nov-Dec.
